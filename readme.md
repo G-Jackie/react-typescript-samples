@@ -237,13 +237,4 @@ Thank you very much to the contributors for keeping the project updated in all t
 - [Jehu Sagardoy](https://github.com/jsagardoy)
 - [Luis del Amo](https://github.com/delamux)
 
-# About Basefactor + Lemoncode
 
-We are an innovating team of Javascript experts, passionate about turning your ideas into robust products.
-
-[Basefactor, consultancy by Lemoncode](http://www.basefactor.com) provides consultancy and coaching services.
-
-[Lemoncode](http://lemoncode.net/services/en/#en-home) provides training services.
-
-For the LATAM/Spanish audience we are running an Online Front End Master degree,
-more info: [http://lemoncode.net/master-frontend](http://lemoncode.net/master-frontend)
